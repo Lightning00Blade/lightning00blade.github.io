@@ -347,14 +347,6 @@
 		grid-column: 1/4;
 		background-image: url(./images/DSC_0016.jpg);
 	}
-	@media only screen and (max-width: 768px){
-		.section--about{
-			grid-template-columns: 1em minmax(230px, 3fr) 1em;
-		}
-		.about__img{
-			background-image: url(./images/DSC_0016_small.jpg);
-		}
-	}
 /* Skills */
 	.section--skills{
 		grid-template-columns: 1fr minmax(230px, auto) 1fr;
