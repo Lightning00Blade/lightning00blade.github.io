@@ -173,7 +173,6 @@ body {
 }
 /* Separators */
 .separator {
-  width: 350px;
   min-height: 40vh;
   background-attachment: fixed;
   background-position: center;
