@@ -112,6 +112,16 @@ body {
 .portion__title a {
     color: inherit;
 }
+.portion__subtitle {
+    margin: 0 0 0.5rem 0;
+    color: var(--text-clr-light);
+    font-family: var(--ff--header);
+    font-size: 1.25em;
+    font-weight: bold;
+}
+.portion__subtitle a {
+    color: inherit;
+}
 .portion__list ul {
     border-bottom: 1px dashed var(--text-clr-sub-light);
 }
