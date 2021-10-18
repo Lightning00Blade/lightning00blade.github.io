@@ -16,4 +16,4 @@ mix
     .sass('src/styles/index.scss', './index.css')
     .options({
         processCssUrls: false
-    });;
+    });
