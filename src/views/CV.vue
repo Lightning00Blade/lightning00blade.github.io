@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import TheWelcome from '@/components/TheWelcome.vue';
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <div>Float Down Right Download</div>
+    <div>CV PDF rendered</div>
   </main>
 </template>
