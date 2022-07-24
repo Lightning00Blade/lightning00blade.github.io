@@ -8,5 +8,4 @@ import Navigation from '@/components/Navigation/Navigation.vue';
   <RouterView />
 </template>
 
-<style>
-</style>
+<style></style>

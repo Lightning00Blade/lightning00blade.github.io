@@ -1,7 +1,3 @@
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<template>
-  Quote
-</template>
+<template>Quote</template>

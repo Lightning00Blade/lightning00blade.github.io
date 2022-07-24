@@ -1,7 +1,3 @@
-<script setup lang="ts">
+<script setup lang="ts"></script>
 
-</script>
-
-<template>
-  Two golden wings and a pyramid.
-</template>
+<template>Two golden wings and a pyramid.</template>
